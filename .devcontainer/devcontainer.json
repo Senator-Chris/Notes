@@ -1,0 +1,22 @@
+{
+    "name": "The-Senate",
+    "image": "the_senate_image",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "ms-toolsai.jupyter",
+                "ms-toolsai.vscode-jupyter-cell-tags",
+                "ms-toolsai.jupyter-keymap",
+                "ms-toolsai.jupyter-renderers",
+                "ms-toolsai.vscode-jupyter-slideshow",
+                "ritwickdey.LiveServer",
+                "yzhang.markdown-all-in-one",
+                "Rax.vscode-orange-theme",
+                "ms-python.python",
+                "ms-python.debugpy",
+                "tomoki1207.pdf"
+            ]
+        }
+    }
+}

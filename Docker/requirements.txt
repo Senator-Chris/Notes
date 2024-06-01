@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+plotly
+scipy
+qsharp
+torch
+opencv-python
+ipywidgets
+jupyter
+jupyterlab
+notebook
