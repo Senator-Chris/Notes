@@ -1,6 +1,6 @@
 {
     "name": "The-Senate",
-    "image": "the_senate_image",
+    "image": "notes-image",
     "customizations": {
         "vscode": {
             "extensions": [
@@ -15,7 +15,8 @@
                 "Rax.vscode-orange-theme",
                 "ms-python.python",
                 "ms-python.debugpy",
-                "tomoki1207.pdf"
+                "tomoki1207.pdf",
+                "ms-toolsai.datawrangler"
             ]
         }
     }
