@@ -12,4 +12,3 @@ jupyter
 jupyterlab
 notebook
 dash
-plotly
